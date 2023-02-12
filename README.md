@@ -21,6 +21,6 @@
 ### git merge [branch_name] 
 *merge changes from a branch into the current branch*
 ### git log 
-*view the commit history of your repository***
+*view the commit history of your repository*
 
 ### **These are some of the basic Git commands, and you can learn more advanced techniques as you gain experience with the tool.**
